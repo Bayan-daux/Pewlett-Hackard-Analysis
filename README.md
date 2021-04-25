@@ -13,4 +13,4 @@ The analysis will help future proof PH by generating a list of all employees eli
 
 ## The process and outcomes for this project
 
-To build the database PostgreSQL and pgAdmin were used. Starting by modeling the data by creating entity relationship diagrams (ERDs), import data (CVS files) into a database, troubleshoot common errors, and followed by creating queries that use the employees’ data to answer requested questions. 
+To build the database PostgreSQL and pgAdmin were used. Starting by modeling the data by creating entity relationship diagrams (ERDs). Then importing company’s available data (six CVS files) into the database, troubleshoot common errors, and followed by creating queries that use the employees’ data to answer the questions stated above. 
