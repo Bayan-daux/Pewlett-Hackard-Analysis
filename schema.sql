@@ -56,3 +56,5 @@ SELECT * FROM dept_manager;
 SELECT * FROM dept_emp;
 SELECT * FROM salaries;
 SELECT * FROM titles;
+
+DROP TABLE employees CASCADE;
