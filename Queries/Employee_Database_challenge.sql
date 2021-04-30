@@ -30,3 +30,24 @@ FROM unique_titles as ut
 GROUP BY ut.title
 ORDER BY COUNT(ut.title) DESC;
 
+-- Employees Eligible for the Mentorship Program
+-- Creating table of employees eligible for the mentorship
+SELECT DISTINCT ON (e.emp_no) e.emp_no,
+		e.first_name,
+		e.last_name,
+		e.birth_date,
+		de.from_date,
+		de.to_date,
+		te.title
+INTO mentorship_eligibilty
+FROM employees as e
+	INNER JOIN dept_emp as de
+		ON (e.emp_no = de.emp_no)
+	INNER JOIN titles as te
+		ON (e.emp_no = te.emp_no)
+WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+	AND (de.to_date = '9999-01-01')
+ORDER BY e.emp_no, te.to_date DESC;
+
+
+
