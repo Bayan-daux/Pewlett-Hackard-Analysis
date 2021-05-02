@@ -1,6 +1,6 @@
-﻿#**Pewlett Hackard Analysis**
+﻿# **Pewlett Hackard Analysis**
 
-##**Overview**
+## **Overview**
 
 This project is a hypothetical scenario in which an HR analyst at company called *Pewlett Hackard* is tasked to preform employee research. PH is a large company, boasting several thousand employees and it has been around for a long time. As baby boomers begin to retire at a rapid rate, PH is looking towards the future in two ways. First, it’s offering a retirement packages for those who meet certain criteria. Second, it is starting to think about which position will need to be filled on the near future. The number of upcoming retirements will leave thousands of job openings. PH is looking ahead and starting to prepare for these many vacancies. Therefore, the HR Analyst will perform the tasked research and help the company leadership in answering the following questions: 
 
@@ -16,7 +16,9 @@ To build the database *PostgreSQL* and *pgAdmin* were used. Starting by modeling
 
 After achieving the initial required task and knowing that around **90,398** employees leaving PH soon from seven different department, with **41,380** of them eligible for a retirement package (*figure 01*), PH has requested three additional lists that are more specific to dive deeper into the data. 
 
-(current_emp_by_dept.png)
+![Graphical user interface
+
+Description automatically generated](Data/png/current_emp_by_dept.PNG)
 
 *figure 01*
 
