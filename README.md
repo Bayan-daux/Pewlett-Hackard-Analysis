@@ -18,7 +18,7 @@ After achieving the initial required task and knowing that around **90,398** emp
 
 ![ ](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/current_emp_by_dept.PNG)
 
-*figure 01*
+				*figure 01*
 
 1. **Employee Information:** A list of employees containing their unique employee number, their last name, first name, gender, and salary (output file *: retirement\_info.csv*) 
 1. **Management:** A list of managers for each department, including the department number, name, and the manager's employee number, last name, first name, and the starting and ending employment dates (output file*: manager\_info.csv*)
@@ -28,33 +28,33 @@ Beside these lists answering the company questions regarding their employee reti
 
 After achieving the requested analysis. A second follow up analysis was requested. The aim is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. 
 
-##**Results**
+## **Results**
 
 - Retirement-Eligible Employees with Titles (*Figure 02)* (Output File: *retirement\_titles.csv* )
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/retirement_titles.PNG)
 
-*Figure 02*
+				*Figure 02*
 
 - Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv* ) 
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/unique_titles.PNG)
 
-*Figure 03*
+				*Figure 03*
 
 - Number of Retirement-Eligible Employees by Most Recent Title (*Figure 04)* (Output File: retiring\_titles.csv)
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/retiring_titles.PNG)
 
-*Figure 04*
+				*Figure 04*
 
 - Employees Eligible for Mentorship Program (*Figure 05)* (Output File: mentorship\_eligibility.csv)
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/mentorship_eligibility.PNG)
 
-*Figure 05*
+				*Figure 05*
 
-##**Summary**
+## **Summary**
 
 Based on the results form all analysis here is some insight into the upcoming *silver tsunami,* PH needs to be aware of. As mentioned above, there are a total of **90,398** employees leaving, **41,380** of them in the very near future working on all seven of the company departments, who are also eligible for a retirement package. All these positions will need to be filled soon. 
 
@@ -62,4 +62,4 @@ Regarding the mentorship program eligibility, more queries were done to understa
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/mentorship_eligibility_count.PNG)
 
-*Figure 06*
+				*Figure 06*
