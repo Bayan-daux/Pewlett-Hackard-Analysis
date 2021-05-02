@@ -40,19 +40,19 @@ After achieving the requested analysis. A second follow up analysis was requeste
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/unique_titles.PNG)
 
-				*Figure 03*
+*Figure 03*
 
 - Number of Retirement-Eligible Employees by Most Recent Title (*Figure 04)* (Output File: retiring\_titles.csv)
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/retiring_titles.PNG)
 
-				*Figure 04*
+*Figure 04*
 
 - Employees Eligible for Mentorship Program (*Figure 05)* (Output File: mentorship\_eligibility.csv)
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/mentorship_eligibility.PNG)
 
-				*Figure 05*
+*Figure 05*
 
 ## **Summary**
 
@@ -62,4 +62,4 @@ Regarding the mentorship program eligibility, more queries were done to understa
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/mentorship_eligibility_count.PNG)
 
-				*Figure 06*
+*Figure 06*
