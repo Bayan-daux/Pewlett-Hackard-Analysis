@@ -10,7 +10,7 @@ This project is a hypothetical scenario in which an HR analyst at company called
 
 The analysis will help future proof PH by generating a list of all employees eligible for retirement package. As PH has been mainly using Excel and VBA to work with their employee data, its data is only available in a form of CSV files. However, currently they decided to update their methods and build a database to house all their data using *SQL*.  
 
-- **The process and outcomes for this project**
+## **The process and outcomes for this project**
 
 To build the database *PostgreSQL* and *pgAdmin* were used. Starting by modeling the data by creating entity relationship diagrams (ERDs) using *QuickDBD*. Then importing company’s available data (*six CVS files: departments.csv, employees.csv, dept\_manager.csv, salaries.csv, dept\_emp.csv, titles.csv*) into the database, troubleshoot common errors. Them followed by creating queries that use the employees’ data to answer the questions stated above. (output files*: retirement\_info.csv, current\_emp.csv,* *current\_emp\_by\_dept.csv)*
 
@@ -34,7 +34,7 @@ After achieving the requested analysis. A second follow up analysis was requeste
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/retirement_titles.PNG)
 
-				*Figure 02*
+                *Figure 02*
 
 - Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv* ) 
 
