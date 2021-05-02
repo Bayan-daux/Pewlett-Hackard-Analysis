@@ -49,5 +49,15 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 	AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no, te.to_date DESC;
 
+-- Number of employees eligible for mentorship program 
+SELECT COUNT (first_name)
+FROM mentorship_eligibilty
+
+-- Count of employees eligible for mentorship program by title
+SELECT COUNT(me.title), me.title
+FROM mentorship_eligibilty as me
+GROUP BY me.title
+ORDER BY COUNT(me.title) DESC;
+
 
 
