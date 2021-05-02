@@ -22,9 +22,9 @@ Description automatically generated](https://github.com/Bayan-daux/Pewlett_Hacka
 
 *figure 01*
 
-1. **Employee Information:** A list of employees containing their unique employee number, their last name, first name, gender, and salary (output file*: retirement\_info.csv*) 
+1. **Employee Information:** A list of employees containing their unique employee number, their last name, first name, gender, and salary (output file *: retirement\_info.csv*) 
 1. **Management:** A list of managers for each department, including the department number, name, and the manager's employee number, last name, first name, and the starting and ending employment dates (output file*: manager\_info.csv*)
-1. **Department Retirees:** An updated current\_emp list that includes everything it currently has, but also the employee's departments. (output file*: dept\_info.csv*)
+1. **Department Retirees:** An updated current\_emp list that includes everything it currently has, but also the employee's departments. (output file *: dept\_info.csv* )
 
 Beside these lists answering the company questions regarding their employee retirement, each list has also raised other questions such as, what’s going on with the salaries? Why are there only five active managers for nine departments? And so on. To answer such questions, some tailored lists were created (output files: *sales\_info.csv, sales\_dev\_info.csv*)
 
@@ -32,7 +32,7 @@ After achieving the requested analysis. A second follow up analysis was requeste
 
 ##**Results**
 
-- Retirement-Eligible Employees with Titles (*Figure 02)* (Output File: *retirement\_titles.csv*)
+- Retirement-Eligible Employees with Titles (*Figure 02)* (Output File: *retirement\_titles.csv* )
 
 ![Graphical user interface
 
@@ -40,7 +40,7 @@ Description automatically generated](Aspose.Words.46bc5e4b-9120-4958-a557-51e181
 
 *Figure 02*
 
-- Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv*) 
+- Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv* ) 
 
 (Aspose.Words.46bc5e4b-9120-4958-a557-51e181d0c9d3.003.png)
 
