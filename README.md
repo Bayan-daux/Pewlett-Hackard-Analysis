@@ -18,7 +18,7 @@ After achieving the initial required task and knowing that around **90,398** emp
 
 ![Graphical user interface
 
-Description automatically generated](Data/png/current_emp_by_dept.PNG)
+Description automatically generated](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/current_emp_by_dept.PNG)
 
 *figure 01*
 
