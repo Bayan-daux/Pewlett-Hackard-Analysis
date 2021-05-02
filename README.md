@@ -16,8 +16,7 @@ To build the database *PostgreSQL* and *pgAdmin* were used. Starting by modeling
 
 After achieving the initial required task and knowing that around **90,398** employees leaving PH soon from seven different department, with **41,380** of them eligible for a retirement package (*figure 01*), PH has requested three additional lists that are more specific to dive deeper into the data. 
 
-![]
-(https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/current_emp_by_dept.PNG)
+![ ](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/current_emp_by_dept.PNG)
 
 *figure 01*
 
@@ -33,21 +32,21 @@ After achieving the requested analysis. A second follow up analysis was requeste
 
 - Retirement-Eligible Employees with Titles (*Figure 02)* (Output File: *retirement\_titles.csv* )
 
-![]
+![ ]
 (Aspose.Words.46bc5e4b-9120-4958-a557-51e181d0c9d3.002.png)
 
 *Figure 02*
 
 - Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv* ) 
 
-![]
+![ ]
 (Aspose.Words.46bc5e4b-9120-4958-a557-51e181d0c9d3.003.png)
 
 *Figure 03*
 
 - Number of Retirement-Eligible Employees by Most Recent Title (*Figure 04)* (Output File: retiring\_titles.csv)
 
-![]
+![ ]
 (Aspose.Words.46bc5e4b-9120-4958-a557-51e181d0c9d3.004.png)
 
 *Figure 04*
@@ -65,7 +64,7 @@ Based on the results form all analysis here is some insight into the upcoming *s
 
 Regarding the mentorship program eligibility, more queries were done to understand the results better. The results indicated there are only **1,549** retirement ready employees who are eligible to mentor younger ones. However, more importantly, there are zero of these employees in a manager position, which indicating a huge problem that needs immediate address by PH, the ability to train the next generation of employees into future mangers (figure 06).
 
-![]
+![ ]
 (Aspose.Words.46bc5e4b-9120-4958-a557-51e181d0c9d3.006.png)*
 
 *Figure 06*
