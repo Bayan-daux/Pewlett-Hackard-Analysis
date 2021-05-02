@@ -12,13 +12,13 @@ The analysis will help future proof PH by generating a list of all employees eli
 
 ## **The process and outcomes for this project**
 
-To build the database *PostgreSQL* and *pgAdmin* were used. Starting by modeling the data by creating entity relationship diagrams (ERDs) using *QuickDBD*. Then importing company’s available data (*six CVS files: departments.csv, employees.csv, dept\_manager.csv, salaries.csv, dept\_emp.csv, titles.csv*) into the database, troubleshoot common errors. Them followed by creating queries that use the employees’ data to answer the questions stated above. (output files*: retirement\_info.csv, current\_emp.csv,* *current\_emp\_by\_dept.csv)*
+To build the database *PostgreSQL* and *pgAdmin* were used. Starting by modeling the data by creating entity relationship diagrams (ERDs) using *QuickDBD*. Then importing company’s available data (*six CVS files: departments.csv, employees.csv, dept\_manager.csv, salaries.csv, dept\_emp.csv, titles.csv*) into the database, troubleshoot common errors. Them followed by creating queries that use the employees’ data to answer the questions stated above. (output files: *retirement\_info.csv,* *current\_emp.csv,* *current\_emp\_by\_dept.csv)*
 
 After achieving the initial required task and knowing that around **90,398** employees leaving PH soon from seven different department, with **41,380** of them eligible for a retirement package (*figure 01*), PH has requested three additional lists that are more specific to dive deeper into the data. 
 
 ![ ](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/current_emp_by_dept.PNG)
 
-				*figure 01*
+*figure 01*
 
 1. **Employee Information:** A list of employees containing their unique employee number, their last name, first name, gender, and salary (output file *: retirement\_info.csv*) 
 1. **Management:** A list of managers for each department, including the department number, name, and the manager's employee number, last name, first name, and the starting and ending employment dates (output file*: manager\_info.csv*)
@@ -34,7 +34,7 @@ After achieving the requested analysis. A second follow up analysis was requeste
 
 ![](https://github.com/Bayan-daux/Pewlett_Hackard_Analysis/blob/main/Data/png/retirement_titles.PNG)
 
-                *Figure 02*
+*Figure 02*
 
 - Retirement-Eligible Employees with Titles (*Figure 03)* (Output File: *.csv* ) 
 
